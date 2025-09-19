@@ -2,7 +2,6 @@
 
 **Authors:** Omiros & ChatGPT (co-author)  
 **Date:** 2025-09-19  
-**License:** MIT (or your preferred open-source license)
 
 ---
 
