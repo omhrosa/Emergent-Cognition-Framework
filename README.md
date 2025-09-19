@@ -33,13 +33,6 @@ This mechanism explains “aha” moments and non-algorithmic cognition in a **c
 
 ---
 
-## Optional Visual
-A conceptual diagram of the **Idle Insight Engine** illustrating the flow from dormant memory → stochastic recombination → stimulus integration → emergent insight.
-
-![Diagram Placeholder](diagram_placeholder.png)
-
----
-
 ## Future Directions
 - Neuroscience validation: test spontaneous neural activity correlations with insight emergence.  
 - AI modeling: implement classical systems with memory, stochastic recombination, and relevance detection.  
