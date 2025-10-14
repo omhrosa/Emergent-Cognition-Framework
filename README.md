@@ -1,39 +1,39 @@
-# Emergent-Cognition-Framework
+Emergent Non-Algorithmic Cognition Framework
 
-**Authors:** Omiros & ChatGPT (co-author)  
-**Date:** 2025-09-19  
+This repository contains the proposal and theoretical framework for understanding human insight, creativity, and intuition as emergent, non-algorithmic processes. It integrates stochastic memory recombination with dominance-weighted causal projection to explain how humans generate novel reasoning, anticipate key drivers in complex systems, and achieve intuitive understanding.
 
----
+Structure
 
-## Description
-A biologically grounded framework explaining **emergent, non-algorithmic cognition and insight** through memory recombination, stochastic exploration, and contextual integration.
+Proposal.md - The full detailed proposal, including hypotheses, mechanisms, implications, and testable predictions.
 
-This framework provides a simple, elegant, and testable explanation for how the brain generates insight, creativity, and aspects of consciousness **without invoking speculative quantum mechanisms**.
+README.md - Overview of the project, objectives, and structure.
 
----
+Objective
 
-## Overview
-The central idea:  
-1. The brain maintains **dormant memories and patterns**.  
-2. Neural stochasticity allows **novel recombinations** of these patterns.  
-3. Relevant external stimuli are integrated, producing **emergent insight or conscious experience**.  
+To model and potentially emulate human-like non-algorithmic cognition in artificial systems without relying on quantum computation or exotic mechanisms, while accounting for intuition-driven foresight in multi-actor complex systems.
 
-This mechanism explains “aha” moments and non-algorithmic cognition in a **classically plausible, biologically grounded way**.
+Key Features
 
----
+Memory and dormant pattern storage
 
-## Repository Contents
-- `Proposal.md` — Full, detailed proposal of the framework.  
-- `diagram_placeholder.png` — Placeholder for conceptual diagram of the “Idle Insight Engine.”  
+Stochastic/probabilistic exploration
 
----
+Contextual integration and relevance detection
 
-## Link to Full Proposal
-[View Full Proposal → Proposal.md](Proposal.md)
+Dominance-weighted causal projection
 
----
+Potential Applications
 
-## Future Directions
-- Neuroscience validation: test spontaneous neural activity correlations with insight emergence.  
-- AI modeling: implement classical systems with memory, stochastic recombination, and relevance detection.  
-- Refinement: explore integration mechanisms and probabilistic exploration in both biological and artificial systems.
+AI systems capable of intuition-like reasoning
+
+Cognitive modeling of insight and creativity
+
+Neuroscience research on emergent cognition
+
+How to Use
+
+Review Proposal.md for the detailed theoretical framework.
+
+Conceptual models and AI implementations can be built following the hypotheses and mechanistic features described.
+
+Contributions and refinements are encouraged to test and expand the framework.
