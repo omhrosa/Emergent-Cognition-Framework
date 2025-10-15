@@ -1,79 +1,66 @@
 # Proposal: Emergent Cognition through Memory Recombination, Stochastic Exploration, and Dominance-Weighted Intuition
 
 **Authors:** Omiros & ChatGPT (co-author)  
-**Date:** 2025-09-19 (updated 2025-10-14)
-
----
+**Date:** 2025-09-19 (updated 2025-10-15)
 
 ## Objective
 
-To provide a biologically plausible framework explaining the generation of insight, creativity, and non-algorithmic cognition in the human brain, while incorporating causal dominance weighting to refine intuitive projections.
-
----
+To provide a biologically and computationally plausible framework explaining the generation of insight, creativity, and intuition in the human brain — in algorithmic terms.  
+The framework models how these processes can be reproduced in AI systems through emergent algorithmic dynamics rather than deterministic rule sets.
 
 ## Core Hypothesis
 
-Human insight and aspects of sentience emerge from the interaction of four fundamental processes:
+Human insight and aspects of sentience emerge from the interaction of four fundamental algorithmic processes:
 
 ### 1. Memory and Dormant Pattern Storage
-- The brain maintains a vast repository of experiences, learned patterns, and latent realizations.  
-- Patterns are continuously available for recombination, even when not actively in conscious awareness.
+* The brain maintains a vast repository of experiences, learned patterns, and latent realizations.
+* Patterns are continuously available for recombination, even when not actively in conscious awareness.
 
 ### 2. Stochastic / Probabilistic Exploration
-- Neural fluctuations and small-scale noise allow the brain to explore novel associations between stored patterns.  
-- Functions as an internal “sandbox,” generating combinations not directly encoded by deterministic pathways.
+* Neural fluctuations and small-scale noise allow exploration of novel associations between stored patterns.
+* Functions as an internal “sandbox,” generating combinations not directly encoded by deterministic pathways.
 
 ### 3. Contextual Integration and Relevance Detection
-- Upon encountering relevant stimuli or problems, the brain matches external input with internally generated candidate combinations.  
-- Coherent, contextually appropriate solutions surface as conscious insight.
+* Upon encountering relevant stimuli, the brain matches external input with internally generated candidate combinations.
+* Coherent, contextually appropriate solutions surface as conscious insight.
 
 ### 4. Dominance-Weighted Causal Projection
-- Expands causal chains to include all correlated actors, even if not present in the immediate situation.  
-- Evaluates frequency, influence, and dominance across historical correlations.  
-- Allows intuition to project past patterns into novel contexts, highlighting primary drivers in complex systems.
-
----
+* Expands causal chains to include correlated factors beyond immediate context.
+* Evaluates frequency, influence, and dominance across historical correlations.
+* Enables intuition to project past patterns into new contexts, identifying primary causal drivers.
 
 ## Mechanistic Features
 
-- **Non-algorithmic behavior:** Insight emerges from complex interactions of memory, recombination, stochasticity, contextual integration, and dominance-weighted projections.  
-- **Emergent coherence:** Conscious experience results from binding relevant internal patterns into a unified percept.  
-- **Efficiency without exotic physics:** All processes are classically plausible and observable in biological neural systems.  
-- **Intuitive causal weighting:** Dominance evaluation focuses on primary levers in complex networks, producing rapid, intuition-like insight.
-
----
+* **Emergent algorithmic behavior:** Insight arises from interacting algorithmic subsystems — memory recombination, stochastic sampling, contextual evaluation, and causal weighting.
+* **Computable coherence:** Conscious or intuitive states represent dynamically bound patterns that achieve local stability and relevance.
+* **Biological plausibility:** All mechanisms align with known neural dynamics; no exotic physics required.
+* **Algorithmic intuition:** Dominance-weighted evaluation enables efficient identification of key levers in complex networks.
 
 ## Implications
 
 ### Cognition & Creativity
-- Explains “aha” moments, creative solutions, and novel reasoning paths.  
-- Insight emerges through probabilistic integration and dominance evaluation.  
-- Intuition anticipates key actors or variables in novel contexts.
+* Explains “aha” moments and creative reasoning as outcomes of algorithmic stochastic integration and causal weighting.
+* Intuition represents rapid evaluation of dominance relations among potential causal factors.
 
 ### Consciousness
-- Underlies unity, temporal continuity, and systemic awareness.  
-- Emergent property of large-scale pattern integration, stochastic exploration, and causal dominance evaluation.
+* Emergent property of large-scale algorithmic integration and dominance-evaluated coherence.
+* Provides a framework for studying subjective experience as system-wide computational alignment.
 
 ### AI and Cognitive Modeling
-- Suggests pathways to emulate human-like non-algorithmic insight in artificial systems:
-  - Large memory repositories  
-  - Stochastic recombination mechanisms  
-  - Contextual relevance evaluation  
-  - Dominance-weighted causal projection for intuition-like inference  
-- Quantum computation is optional.  
-- Enables AI to simulate intuition beyond brute-force reasoning.
-
----
+* Suggests a roadmap for building AI with intuition-like reasoning:
+  * Large-scale memory repositories
+  * Stochastic recombination modules
+  * Contextual relevance filters
+  * Dominance-weighted causal inference engine
+* Enables algorithmic modeling of intuition, foresight, and creativity without quantum or non-computable assumptions.
 
 ## Testable Predictions
-
-1. Spontaneous neural activity correlations predict later solution emergence.  
-2. Controlled noise enhances novel associations and creative problem-solving.  
-3. Insights require coherent interaction across memory and associative regions; disruption reduces emergent insight.  
-4. Dominance nodes identified through causal weighting consistently appear as primary drivers in real-world outcomes.
-
----
+1. Spontaneous neural correlations during rest predict later insight events.
+2. Controlled noise injection enhances creative association and problem-solving.
+3. Coherent interaction across memory and associative regions is required for emergent insight.
+4. Dominance nodes identified via causal weighting correspond to real-world decision drivers.
 
 ## Conclusion
 
-This framework provides a biologically grounded explanation for non-algorithmic cognition, emergent insight, and intuitive causal inference, accounting for human creativity, foresight, and subjective experience while remaining open to refinement and testing in neuroscience and AI.
+This framework provides a unified, biologically grounded, and algorithmically expressible model for human insight, creativity, and intuitive reasoning.  
+It bridges cognitive science and AI design, showing that emergent insight can arise from structured algorithmic processes that recombine, evaluate, and project patterns dynamically.
