@@ -1,34 +1,26 @@
-Emergent Non-Algorithmic Cognition Framework
+# Emergent Cognition Framework
 
-This repository contains the proposal and theoretical framework for understanding human insight, creativity, and intuition as emergent, non-algorithmic processes. It integrates stochastic memory recombination with dominance-weighted causal projection to explain how humans generate novel reasoning, anticipate key drivers in complex systems, and achieve intuitive understanding.
+This repository explores human insight, creativity, and intuition as emergent, non-algorithmic processes.  
+It integrates stochastic memory recombination with dominance-weighted causal projection to explain how humans generate novel reasoning, anticipate key drivers, and achieve intuitive understanding.
 
+📄 **Full Proposal:** [Proposal.md](./Proposal.md)
 
-Objective
+## Objective
+To model and emulate human-like non-algorithmic cognition in artificial systems without relying on quantum computation or exotic mechanisms — capturing intuition-driven foresight in complex, multi-actor systems.
 
-To model and potentially emulate human-like non-algorithmic cognition in artificial systems without relying on quantum computation or exotic mechanisms, while accounting for intuition-driven foresight in multi-actor complex systems.
+## Core Features
+- Memory and dormant pattern storage  
+- Stochastic / probabilistic exploration  
+- Contextual integration and relevance detection  
+- Dominance-weighted causal projection  
 
-Key Features
+## Applications
+- AI systems with intuition-like reasoning  
+- Cognitive modeling of insight and creativity  
+- Neuroscience studies on emergent cognition  
 
-Memory and dormant pattern storage
+## How to Use
+1. Read [Proposal.md](./Proposal.md) for the full theoretical framework.  
+2. Build conceptual or AI models following its hypotheses.  
+3. Contribute refinements or empirical tests.
 
-Stochastic/probabilistic exploration
-
-Contextual integration and relevance detection
-
-Dominance-weighted causal projection
-
-Potential Applications
-
-AI systems capable of intuition-like reasoning
-
-Cognitive modeling of insight and creativity
-
-Neuroscience research on emergent cognition
-
-How to Use
-
-Review Proposal.md for the detailed theoretical framework.
-
-Conceptual models and AI implementations can be built following the hypotheses and mechanistic features described.
-
-Contributions and refinements are encouraged to test and expand the framework.
