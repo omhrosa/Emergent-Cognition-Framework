@@ -1,26 +1,45 @@
 # Emergent Cognition Framework
 
-This repository explores human insight, creativity, and intuition as emergent, non-algorithmic processes.  
-It integrates stochastic memory recombination with dominance-weighted causal projection to explain how humans generate novel reasoning, anticipate key drivers, and achieve intuitive understanding.
+A framework for modeling human insight, creativity, and intuition as emergent algorithmic processes.  
+It integrates memory recombination, stochastic exploration, contextual relevance evaluation, and dominance-weighted causal projection — offering a roadmap for AI systems capable of intuition-like reasoning.
 
-📄 **Full Proposal:** [Proposal.md](./Proposal.md)
+---
 
-## Objective
-To model and emulate human-like non-algorithmic cognition in artificial systems without relying on quantum computation or exotic mechanisms — capturing intuition-driven foresight in complex, multi-actor systems.
+## 📂 Structure
+* [`Proposal.md`](./Proposal.md) — Full theoretical proposal including mechanisms, hypotheses, implications, and testable predictions.
+* `README.md` — Overview, objectives, and usage.
 
-## Core Features
-- Memory and dormant pattern storage  
-- Stochastic / probabilistic exploration  
-- Contextual integration and relevance detection  
-- Dominance-weighted causal projection  
+---
 
-## Applications
-- AI systems with intuition-like reasoning  
-- Cognitive modeling of insight and creativity  
-- Neuroscience studies on emergent cognition  
+## 🎯 Objective
+To model and emulate human-like insight and intuition through algorithmic means — without requiring quantum or non-computable processes.  
+The framework bridges neuroscience and AI by defining cognition as an emergent property of interacting algorithmic modules.
 
-## How to Use
-1. Read [Proposal.md](./Proposal.md) for the full theoretical framework.  
-2. Build conceptual or AI models following its hypotheses.  
-3. Contribute refinements or empirical tests.
+---
 
+## ⚙️ Core Components
+* **Memory & Dormant Pattern Storage** — Repository of latent experiences and concepts.  
+* **Stochastic Exploration** — Randomized recombination generating novel associations.  
+* **Contextual Integration** — Dynamic filtering for coherence and relevance.  
+* **Dominance-Weighted Causal Projection** — Identification of primary drivers across complex causal networks.
+
+---
+
+## 🧠 Potential Applications
+* Cognitive architectures for creative and intuitive AI  
+* Computational modeling of insight and foresight  
+* Cross-domain reasoning systems with contextual adaptability  
+* Neuroscience-inspired learning frameworks
+
+---
+
+## 🚀 How to Use
+1. Read [`Proposal.md`](./Proposal.md) for full conceptual foundation.  
+2. Implement algorithmic components incrementally — memory repository, stochastic recombination, contextual filtering, dominance evaluation.  
+3. Contribute theoretical refinements or computational implementations.
+
+---
+
+## 💡 Description
+A biologically and computationally grounded framework for emergent algorithmic cognition, insight, and intuition.  
+Integrates memory recombination, stochastic exploration, contextual relevance evaluation, and dominance-weighted causal projection to guide both neuroscience research and AI modeling of creative reasoning.
